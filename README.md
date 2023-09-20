@@ -8,7 +8,7 @@
 | 1   | [Индексирование](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk_1.pdf)   | 06.09.2023   | - |
 | 2    | [Tf-Idf и BM25](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk_2.pdf)   | 06.09.2023   | - |
 | 3    | [Повторение программирования](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk_3.ipynb)   | 13.09.2023   | [Домашняя работа 1](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/homework_1.md) |
-| 4    | Эмбеддинги   | 20.09.2023   | - |
+| 4    | [Эмбеддинги](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk_4.pdf)   | 20.09.2023   | - |
 | 5    | Докер   | 27.09.2023   | Домашняя работа 2 |
 | 6    | To be updated...   | 04.10.2023   | - |
 | 7    | To be updated...   | 11.10.2023   | - |
