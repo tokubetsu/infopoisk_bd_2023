@@ -24,5 +24,5 @@
 | 5    | [Группировки. Агрегации. Оконные функции](https://docs.google.com/presentation/d/1_zHe7tNUeqyJ5e7Dah-GMWvcdYmUbHfN7CMy07RGuuQ/edit?usp_sharing)   | 25.11.2023   | Домашнее задание 2 |
 | 6    | [Подзапросы. CTE](https://docs.google.com/presentation/d/1lPz01cF1bXY8IBij5KeFA7fO0yOHxAAAnRrLVr1HBXI/edit?usp=sharing)   | 25.11.2023   | - |
 | 7    | [Объекты БД](https://docs.google.com/presentation/d/1PLpSQzX847-Cs_lirsRaRiZQBh95UMZp8pRhvoXJ6K0/edit?usp=sharing)   | 02.11.2023   | Домашнее задание 3 |
-| 8    | [Нереляционные базы данных. NoSQL]()   | 11.10.2023   | - |
+| 8    | [Масштабирование. Нереляционные базы данных. NoSQL](https://docs.google.com/presentation/d/1UEnwgy8rtVgpKQ-XQEDrr4MdL7x22x1rHdn_B7BHWJ4/edit?usp=sharing)   | 09.12.2023   | - |
 | 9    | Защита проектов   | 16.12.2023   | - |
