@@ -6,7 +6,11 @@
 ## Информационный поиск
 | Номер лекции | Тема | Дата | Домашняя работа |
 |----------|----------|----------|----------|
-| 1   | [Индексирование](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk/lectures/infopoisk_1.pdf)   | 06.09.2023   | - |
+| 1-2   | [Вводная](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk/lectures/infopoisk_1.pdf)   | 03.09.2024   | - |
+| 3   | [Векторизация, теория](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk/lectures/infopoisk_2.pdf)   | 10.09.2024   | - |
+| 4   | [Векторизация, практика](#)   | 17.09.2024   | - |
+| 5   | [Докер, теория](#)   | 24.09.2024   | - |
+| 6   | [Докер, практика](#)   | 01.10.2024   | - |
 
 ## Базы данных
 | Номер лекции | Тема | Дата | Домашняя работа |
