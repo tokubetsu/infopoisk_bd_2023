@@ -17,5 +17,6 @@
 ## Базы данных
 | Номер лекции | Тема | Дата | Домашняя работа |
 |----------|----------|----------|----------|
-
-To be updated...
+|1|[Введение](https://docs.google.com/presentation/d/1lyv_zZW4uIXWT8UlKbpQ8e-jvaiQpBOjthOA4IDsDxg/edit?usp=sharing)|08.10.2024|-|
+|2|Архитектура|15.10.2024|tbd|
+|3||||
