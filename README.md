@@ -18,5 +18,5 @@
 | Номер лекции | Тема | Дата | Домашняя работа |
 |----------|----------|----------|----------|
 |1|[Введение](https://docs.google.com/presentation/d/1lyv_zZW4uIXWT8UlKbpQ8e-jvaiQpBOjthOA4IDsDxg/edit?usp=sharing)|08.10.2024|-|
-|2|Архитектура|15.10.2024|tbd|
+|2|[Архитектура](https://docs.google.com/presentation/d/1NYgVIW6n-4zIyLA9q53b72EtmMQmTzzyyeZTGfy7epk/edit?usp=sharing)|15.10.2024|Дедлайн: 27.10.2024 23:59|
 |3||||
