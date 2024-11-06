@@ -19,4 +19,6 @@
 |----------|----------|----------|----------|
 |1|[Введение](https://docs.google.com/presentation/d/1lyv_zZW4uIXWT8UlKbpQ8e-jvaiQpBOjthOA4IDsDxg/edit?usp=sharing)|08.10.2024|-|
 |2|[Архитектура](https://docs.google.com/presentation/d/1NYgVIW6n-4zIyLA9q53b72EtmMQmTzzyyeZTGfy7epk/edit?usp=sharing)|15.10.2024|Дедлайн: 27.10.2024 23:59|
-|3|[Установка](https://docs.google.com/presentation/d/1ivCc53cP0Z6Q1WCEC7Jxp3KO7yQZ8T_LudU69GzQbWM/edit?usp=sharing)|22.10.2024|-|
+|3|[Установка](https://docs.google.com/presentation/d/1ivCc53cP0Z6Q1WCEC7Jxp3KO7yQZ8T_LudU69GzQbWM/edit?usp=sharing)|05.11.2024|-|
+|4|[SQL. Простые запросы](https://docs.google.com/presentation/d/122f2Q3BBDoR1C55oLBlCfgXCMRk4Fh2-EJvqieKZVtc/edit?usp=sharing)|05.11.2024|-|
+|5|[Агрегация и группировки](https://docs.google.com/presentation/d/159GRKA_yW__3V1fsnN96Paw1xK0-HBdasn0vrr9etZo/edit?usp=sharing)|05.11.2024|-|
