@@ -23,5 +23,5 @@
 |4|[SQL. Простые запросы](https://docs.google.com/presentation/d/122f2Q3BBDoR1C55oLBlCfgXCMRk4Fh2-EJvqieKZVtc/edit?usp=sharing)|05.11.2024|-|
 |5|[Агрегация и группировки](https://docs.google.com/presentation/d/159GRKA_yW__3V1fsnN96Paw1xK0-HBdasn0vrr9etZo/edit?usp=sharing)|05.11.2024|-|
 |5.2|[Подзапросы, CTE, временные таблицы](https://docs.google.com/presentation/d/1CB0OaGk5iYWHgRKPoi-NjMW1by5sJGpj1TuAfkgyUSs/edit?usp=sharing)|12.11.2024|-|
-|6|[Объекты](https://docs.google.com/presentation/d/1omJHZe_lePvFlELjlDW5LJ2nUISxdeOdIJ52Itn8OPc/edit?usp=sharing)|12.11.2024|Дедлайн: 21.11.2024 23:59|
+|6|[Объекты](https://docs.google.com/presentation/d/1omJHZe_lePvFlELjlDW5LJ2nUISxdeOdIJ52Itn8OPc/edit?usp=sharing)|12.11.2024|Дедлайн (перенесён): 23.11.2024 23:59|
 |(7)|[Транзакции](https://docs.google.com/presentation/d/1lf6lmoyZL3xGbBZup6zd4PGI3Fc0DPr4l_kYjzRba-M/edit?usp=sharing)|-|-|
