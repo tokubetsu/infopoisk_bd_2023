@@ -25,3 +25,4 @@
 |5.2|[Подзапросы, CTE, временные таблицы](https://docs.google.com/presentation/d/1CB0OaGk5iYWHgRKPoi-NjMW1by5sJGpj1TuAfkgyUSs/edit?usp=sharing)|12.11.2024|-|
 |6|[Объекты](https://docs.google.com/presentation/d/1omJHZe_lePvFlELjlDW5LJ2nUISxdeOdIJ52Itn8OPc/edit?usp=sharing)|12.11.2024|Дедлайн (перенесён): 23.11.2024 23:59|
 |(7)|[Транзакции](https://docs.google.com/presentation/d/1lf6lmoyZL3xGbBZup6zd4PGI3Fc0DPr4l_kYjzRba-M/edit?usp=sharing)|-|-|
+|8|[Полнотекстовый поиск. Альтернативные способы хранения векторов](https://docs.google.com/presentation/d/1DKQq4S2-Uafg6HPhw_r-bSpVfpHO7LjNN1pOKJT-L58/edit?usp=sharing)|26.11.2024|-|
