@@ -12,7 +12,10 @@
 | 3   | [Векторизация, теория](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk/lectures/infopoisk_2.pdf)   | 10.09.2024   | - |
 | 4   | [Векторизация, практика](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk/lectures/infopoisk_3.ipynb) и [немного про берта](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk/lectures/compsem_bert.ipynb)  | 17.09.2024   | - |
 | 5   | [Докер, теория](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk/lectures/infopoisk_5.pdf)   | 24.09.2024   | - |
-| 6   | [Докер, практика](#)   | 01.10.2024   | [Домашняя работа 1](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/assignments/homework_1.md) <br> **Дедлайн: 18.10.2024 23:59** |
+| 6   | Докер, практика   | 01.10.2024   | [Домашняя работа 1](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/assignments/homework_1.md) <br> **Дедлайн: 18.10.2024 23:59** |
+| 7   | API   | 19.11.2024   | - |
+| 8   | [RecSys](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk/lectures/RecSys_infopoisk_2024.ipynb)   | 03.12.2024   | - |
+| 9   | [LLM & RAG](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk/lectures/RAG_infopoisk_2024.pdf) <br> [Докер-образ](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/infopoisk/lectures/docker.md) | 10.12.2024   | [Домашняя работа 2](https://github.com/tokubetsu/infopoisk_bd_2023/blob/main/assignments/homework_2.md) <br> **Дедлайн: начало экзамена** |
 
 ## Базы данных
 | Номер лекции | Тема | Дата | Домашняя работа |
